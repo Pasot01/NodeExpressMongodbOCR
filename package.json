@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Pasot01/NodeExpressMongodbOCR#readme",
   "dependencies": {
-    "express": "^4.18.1"
+    "express": "^4.18.1",
+    "mongoose": "^6.4.0"
   }
 }
